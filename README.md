@@ -20,7 +20,7 @@ I am a **Computer Science** student at the **University of Waterloo** with a pas
 | :--- | :--- |
 | **Languages** | C, C++, Python, Rust, TypeScript, Java, SQL, R |
 | **Frameworks** | React, Next.js, FastAPI, Node.js, PyTorch, Tailwind CSS |
-| **Infrastructure** | AWS (SAA Certified), Docker, PostgreSQL, MySQL, Linux |
+| **Infrastructure** | AWS, Docker, PostgreSQL, MySQL, Linux |
 | **Tools** | Git, VS Code, PyCharm, Maven, Arduino |
 
 ---
