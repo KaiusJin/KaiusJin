@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=250&section=header&text=Hello!%20I'm%20Kaius%20(Kaixuan)%20Jin&fontSize=45&animation=fadeIn&fontColor=ffffff)
 <h1>Hello, I'm Kaixuan (Kaius) Jin 👋</h1>
 
 <p align="center">
