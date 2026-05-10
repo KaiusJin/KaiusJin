@@ -27,11 +27,11 @@ I am a **Computer Science** student at the **University of Waterloo** with a pas
 
 <h2>📂 Featured Projects</h2>
 
-### 📈 [CausalEdge: Transformer-Based Crypto HFT System](https://github.com/KaiusJin/Finance)
-*Designed a Transformer Encoder architecture to capture tick-level price volatility with a direction-reversal penalty.* `PyTorch` `ClickHouse` `CUDA` `Python`
-
 ### 🎓 [UW Degree Explorer & Community Hub](https://github.com/KaiusJin/UWDegreeExplorer)
 *Engineered a high-performance lexical parser using AST to resolve complex prerequisite logic for 7,000+ courses.* `React` `TypeScript` `PostgreSQL` `Drizzle ORM`
+
+### 📈 [CausalEdge: Transformer-Based Crypto HFT System](https://github.com/KaiusJin/Finance)
+*Designed a Transformer Encoder architecture to capture tick-level price volatility with a direction-reversal penalty.* `PyTorch` `ClickHouse` `CUDA` `Python`
 
 ### 🤖 [CareerForge AI](https://github.com/KaiusJin/CareerForge-AI)
 *Multi-modal interview simulator using MediaPipe for facial landmark tracking and Gemini 3 Pro for logic reasoning.* `Python` `MediaPipe` `Gemini API` `AES-256`
