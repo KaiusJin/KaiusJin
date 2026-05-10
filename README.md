@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello!%20I'm%20Kaius%20(Kaixuan)%20Jin&fontSize=45&animation=fadeIn&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello!%20I'm%20Kaixuan%20(Kaius)%20Jin&fontSize=45&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=500&height=50&lines=CS+Undergrad+@+UWaterloo;Full-Stack+Developer;Infrastructure+at+CraneLab;AI+%26+Quant+Enthusiast" alt="Typing SVG" />
