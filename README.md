@@ -44,18 +44,19 @@ I am a **Computer Science** student at the **University of Waterloo** with a pas
 
 ---
 
-<h2>📊 GitHub Stats</h2>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaiusJin&show_icons=true&theme=transparent" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiusJin&layout=compact&theme=transparent" height="170" />
-</p>
-
----
-
 <h2>📫 Connect with Me</h2>
-- **Portfolio**: [kaiusjin.com](https://kaiusjin.com)
-- **LinkedIn**: [linkedin.com/in/kaixuan-jin](https://linkedin.com/in/kaixuan-jin)
-- **Email**: [kaius.jin@uwaterloo.ca](mailto:kaius.jin@uwaterloo.ca)
+
+<p align="left">
+  <a href="https://kaiusjin.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/kaixuan-jin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:k39jin@uwaterloo.ca">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 <p align="center">"Building scalable solutions with a touch of design perfection."</p>
