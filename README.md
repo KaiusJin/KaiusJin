@@ -5,7 +5,8 @@
 </p>
 
 <h2>🚀 About Me</h2>
-I am a **Computer Science** student at the **University of Waterloo** with a passion for building high-performance systems and decentralized infrastructure. As a perfectionist regarding design, I focus on bridging complex algorithms with intuitive user experiences.
+
+I am a **2A Computer Science** student at the **University of Waterloo**, pursuing a **Bachelor of Honors Computer Science** with an **AI Specialization** and a **Computation Optimization Minor**. As a perfectionist regarding design, I focus on bridging complex algorithms with intuitive user experiences.
 
 * 🛠️ **Current Focus**: Infrastructure Developer at **Crane Lab**, working on decentralized federated learning.
 * 🧬 **Leadership**: External Affairs Co-Lead for **Waterloo iGEM**, managing technical Wiki and project funding.
