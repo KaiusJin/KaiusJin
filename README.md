@@ -10,7 +10,7 @@ I am a **2A Computer Science** student at the **University of Waterloo**, pursui
 
 * 🛠️ **Current Focus**: Infrastructure Developer at **Crane Lab**, working on decentralized federated learning.
 * 🧬 **Leadership**: External Affairs Co-Lead for **Waterloo iGEM**, managing technical Wiki and project funding.
-* 🎨 **Creative Side**: Graphic Designer for the **UW Computer Science Club**.
+* 🎨 **Creative Side**: Graphic Designer & Web Developer for the **UW Computer Science Club**.
 * 🏆 **Academic**: 4.0/4.0 GPA (92.8% Average) | Lan Wong Chu Entrance Scholarship | President's Scholarship of Distinction.
 
 ---
