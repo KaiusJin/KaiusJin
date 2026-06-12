@@ -6,16 +6,6 @@
 
 </p>
 
-<p align="center">
-
-  <a href="https://kaiusjin.com">Portfolio</a> ·
-
-  <a href="https://linkedin.com/in/kaixuan-jin">LinkedIn</a> ·
-
-  <a href="mailto:k39jin@uwaterloo.ca">Email</a>
-
-</p>
-
 ---
 
 ## About Me
@@ -49,30 +39,6 @@ I enjoy building reliable software systems that combine strong engineering found
 Built a course planning and prerequisite exploration platform for University of Waterloo students, including a custom parser for complex prerequisite logic across thousands of courses.
 
 `React` `TypeScript` `PostgreSQL` `Drizzle ORM`
-
-### [CausalEdge: Transformer-Based Crypto HFT System](https://github.com/KaiusJin/Finance)
-
-Designed a machine learning pipeline for tick-level crypto market data, using Transformer-based modeling to study short-term volatility and directional movement patterns.
-
-`PyTorch` `ClickHouse` `CUDA` `Python`
-
-### [CareerForge AI](https://github.com/KaiusJin/CareerForge-AI)
-
-Developed an AI-powered interview practice platform with multimodal feedback, facial landmark tracking, and LLM-based response evaluation.
-
-`Python` `MediaPipe` `Gemini API` `AES-256`
-
-### [DonaTrust: Decentralized Donation Platform](https://github.com/KaiusJin/DonaTrust)
-
-Built a blockchain-based donation platform focused on transaction transparency, traceability, and smart contract-based donation records.
-
-`Solidity` `React` `Ethereum` `Smart Contracts`
-
-### [Walle Walle: Multi-Modal AI Autonomous Robot](https://github.com/KaiusJin/Robotics)
-
-Built an autonomous robot system that combines hardware control, visual perception, and AI-based reasoning for interactive robot behavior.
-
-`C++` `Python` `Arduino` `YOLO` `Computer Vision`
 
 ---
 
