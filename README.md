@@ -8,23 +8,11 @@
 
 <p align="center">
 
-  <a href="https://kaiusjin.com" target="_blank">
+  <a href="https://kaiusjin.com">Portfolio</a> ·
 
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://linkedin.com/in/kaixuan-jin">LinkedIn</a> ·
 
-  </a>
-
-  <a href="https://linkedin.com/in/kaixuan-jin" target="_blank">
-
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-
-  </a>
-
-  <a href="mailto:k39jin@uwaterloo.ca">
-
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-
-  </a>
+  <a href="mailto:k39jin@uwaterloo.ca">Email</a>
 
 </p>
 
@@ -62,43 +50,41 @@ Built a course planning and prerequisite exploration platform for University of 
 
 `React` `TypeScript` `PostgreSQL` `Drizzle ORM`
 
+### [CausalEdge: Transformer-Based Crypto HFT System](https://github.com/KaiusJin/Finance)
+
+Designed a machine learning pipeline for tick-level crypto market data, using Transformer-based modeling to study short-term volatility and directional movement patterns.
+
+`PyTorch` `ClickHouse` `CUDA` `Python`
+
+### [CareerForge AI](https://github.com/KaiusJin/CareerForge-AI)
+
+Developed an AI-powered interview practice platform with multimodal feedback, facial landmark tracking, and LLM-based response evaluation.
+
+`Python` `MediaPipe` `Gemini API` `AES-256`
+
+### [DonaTrust: Decentralized Donation Platform](https://github.com/KaiusJin/DonaTrust)
+
+Built a blockchain-based donation platform focused on transaction transparency, traceability, and smart contract-based donation records.
+
+`Solidity` `React` `Ethereum` `Smart Contracts`
+
+### [Walle Walle: Multi-Modal AI Autonomous Robot](https://github.com/KaiusJin/Robotics)
+
+Built an autonomous robot system that combines hardware control, visual perception, and AI-based reasoning for interactive robot behavior.
+
+`C++` `Python` `Arduino` `YOLO` `Computer Vision`
+
 ---
 
-## GitHub Analytics
+## Connect
 
-<p align="center">
+**Portfolio:** [kaiusjin.com](https://kaiusjin.com)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=KaiusJin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&icon_color=60A5FA" alt="KaiusJin's GitHub Stats" height="165" />
+**LinkedIn:** [linkedin.com/in/kaixuan-jin](https://linkedin.com/in/kaixuan-jin)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiusJin&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" alt="Top Languages" height="165" />
-
-</p>
+**Email:** [k39jin@uwaterloo.ca](mailto:k39jin@uwaterloo.ca)
 
 ---
-
-## Connect with Me
-
-<p align="center">
-
-  <a href="https://kaiusjin.com" target="_blank">
-
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-
-  </a>
-
-  <a href="https://linkedin.com/in/kaixuan-jin" target="_blank">
-
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-
-  </a>
-
-  <a href="mailto:k39jin@uwaterloo.ca">
-
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-
-  </a>
-
-</p>
 
 <p align="center">
 
