@@ -10,35 +10,21 @@
 
 ## About Me
 
-I am a **Computer Science student at the University of Waterloo**, focused on **backend systems**, **cloud infrastructure**, **AI engineering**, and **full-stack web development**.
+Hi, I'm Kaius 👋
 
-I enjoy building reliable software systems that combine strong engineering foundations with clean user-facing experiences. My current technical interests include **distributed systems**, **cloud-native backend development**, **AI infrastructure**, **LLM applications**, and **developer tools**.
+Computer Science @ University of Waterloo
+
+I'm interested in **backend engineering, AI infrastructure, and platform & infrastructure engineering**. I enjoy building reliable, scalable systems and turning complex ideas into practical solutions.
 
 ---
 
 ## Technical Stack
 
-**Languages:** C, C++, Python, Rust, TypeScript, Java, SQL, R
+**Languages:** C, C++, Python, Rust, TypeScript, Java
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS
+**Backend:** Spring Boot, PostgreSQL, MySQL, Redis
 
-**Backend:** FastAPI, Node.js, REST APIs, PostgreSQL, MySQL
-
-**AI / ML:** PyTorch, OpenCV, MediaPipe, LLM APIs, Federated Learning
-
-**Cloud / Infrastructure:** AWS, Docker, Linux, GitHub Actions
-
-**Developer Tools:** Git, VS Code, PyCharm, Maven, Arduino
-
----
-
-## Featured Projects
-
-### [UW Degree Explorer & Community Hub](https://github.com/KaiusJin/UWDegreeExplorer)
-
-Built a course planning and prerequisite exploration platform for University of Waterloo students, including a custom parser for complex prerequisite logic across thousands of courses.
-
-`React` `TypeScript` `PostgreSQL` `Drizzle ORM`
+**Cloud / Infrastructure:** AWS, Kubernetes, Docker, Terraform
 
 ---
 
@@ -49,11 +35,3 @@ Built a course planning and prerequisite exploration platform for University of 
 **LinkedIn:** [linkedin.com/in/kaixuan-jin](https://linkedin.com/in/kaixuan-jin)
 
 **Email:** [k39jin@uwaterloo.ca](mailto:k39jin@uwaterloo.ca)
-
----
-
-<p align="center">
-
-  <em>Building scalable backend systems, AI-powered applications, and clean web experiences.</em>
-
-</p>
