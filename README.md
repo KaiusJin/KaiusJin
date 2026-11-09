@@ -22,8 +22,6 @@ I'm interested in **backend engineering, AI infrastructure, and platform & infra
 
 **Cloud / Infrastructure:** AWS, Kubernetes, Docker, Terraform
 
----
-
 ## Connect
 
 **Portfolio:** [kaiusjin.com](https://kaiusjin.com)
