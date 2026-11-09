@@ -6,8 +6,6 @@
 
 </p>
 
----
-
 ## About Me
 
 Hi, I'm Kaius 👋
@@ -15,8 +13,6 @@ Hi, I'm Kaius 👋
 Computer Science @ University of Waterloo
 
 I'm interested in **backend engineering, AI infrastructure, and platform & infrastructure engineering**. I enjoy building reliable, scalable systems and turning complex ideas into practical solutions.
-
----
 
 ## Technical Stack
 
