@@ -1,7 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img src="./assets/banner-light.svg" alt="Kaixuan (Kaius) Jin — Backend systems, cloud infrastructure, and AI engineering" width="100%">
+  <source media="(max-width: 600px)" srcset="./assets/banner-mobile.svg">
+  <img src="./assets/banner.svg" alt="Kaixuan (Kaius) Jin — Computer Science at the University of Waterloo; interests and contact details in a terminal" width="100%">
 </picture>
 
 ## About Me
