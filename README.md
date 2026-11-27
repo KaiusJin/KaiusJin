@@ -9,13 +9,9 @@ Hi, I'm Kaius 👋
 
 Computer Science @ University of Waterloo
 
-I'm interested in **backend engineering, AI infrastructure, and platform & infrastructure engineering**. I enjoy building reliable, scalable systems and turning complex ideas into practical solutions.
-
 ## Technical Stack
 
-**Languages:** C, C++, Python, Rust, TypeScript, Java
-
-**Backend:** Spring Boot, PostgreSQL, MySQL, Redis
+**Languages:** C, C++, Python, Rust, Go, TypeScript, Java
 
 **Cloud / Infrastructure:** AWS, Kubernetes, Docker, Terraform
 
