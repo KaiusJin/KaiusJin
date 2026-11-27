@@ -1,10 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello!%20I'm%20Kaixuan%20(Kaius)%20Jin&fontSize=45&animation=fadeIn&fontColor=ffffff" width="100%" />
-
-<p align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=650&height=50&lines=Computer+Science+@+University+of+Waterloo;Backend+Systems+%26+Cloud+Infrastructure;AI+Engineering+%26+ML+Infrastructure;Full-Stack+Web+Development" alt="Typing SVG" />
-
-</p>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/banner-mobile.svg">
+  <img src="./assets/banner.svg" alt="Kaixuan (Kaius) Jin — Computer Science at the University of Waterloo; interests and contact details in a terminal" width="100%">
+</picture>
 
 ## About Me
 
@@ -12,13 +9,9 @@ Hi, I'm Kaius 👋
 
 Computer Science @ University of Waterloo
 
-I'm interested in **backend engineering, AI infrastructure, and platform & infrastructure engineering**. I enjoy building reliable, scalable systems and turning complex ideas into practical solutions.
-
 ## Technical Stack
 
-**Languages:** C, C++, Python, Rust, TypeScript, Java
-
-**Backend:** Spring Boot, PostgreSQL, MySQL, Redis
+**Languages:** C, C++, Python, Rust, Go, TypeScript, Java
 
 **Cloud / Infrastructure:** AWS, Kubernetes, Docker, Terraform
 

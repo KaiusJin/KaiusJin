@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="344" viewBox="0 0 520 344" role="img" aria-labelledby="title description">
+  <title id="title">Kaixuan (Kaius) Jin — terminal profile</title>
+  <desc id="description">Kaius studies Computer Science at the University of Waterloo. Interests: Backend Development; LLM Inference &amp; Serving; Deep Learning &amp; Neural Network Architectures. Portfolio: kaiusjin.com. LinkedIn: linkedin.com/in/kaixuan-jin. Email: k39jin@uwaterloo.ca.</desc>
+  <defs>
+    <clipPath id="window">
+      <rect width="520" height="344" rx="10"/>
+    </clipPath>
+  </defs>
+  <style>
+    svg { --body: #fcfcff; --bar: #e7e5f0; --footer: #eeedf5; --text: #303543; --muted: #626078; --chrome: #666277; --user: #7541b4; --path: #24704a; --heading: #8b6100; --link: #086b9f; }
+    @media (prefers-color-scheme: dark) {
+      svg { --body: #09181d; --bar: #1c1c2e; --footer: #191b2a; --text: #dce4ec; --muted: #9291ab; --chrome: #9693ad; --user: #b89aff; --path: #8bd5a0; --heading: #f5cb5c; --link: #69c5ff; }
+    }
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-weight: 400; }
+    .session { font-size: 12px; }
+    .window-title { font-size: 9px; letter-spacing: 0px; }
+    .status { font-size: 9px; }
+  </style>
+  <g clip-path="url(#window)">
+    <rect width="520" height="344" fill="var(--body)"/>
+    <rect width="520" height="28" fill="var(--bar)"/>
+    <rect y="326" width="520" height="18" fill="var(--footer)"/>
+  </g>
+  <circle cx="18" cy="14" r="4" fill="#ff6058"/>
+  <circle cx="32" cy="14" r="4" fill="#ffbd2e"/>
+  <circle cx="46" cy="14" r="4" fill="#28c840"/>
+  <text x="260" y="17" text-anchor="middle" class="window-title" fill="var(--chrome)">~/kaius — zsh</text>
+  <g class="session" fill="var(--text)" xml:space="preserve">
+    <text x="18" y="54"><tspan fill="var(--user)">kaius@github</tspan><tspan fill="var(--path)"> ~</tspan><tspan> $ </tspan><tspan>whoami</tspan></text>
+    <text x="18" y="74">↳ Kaixuan (Kaius) Jin</text>
+    <text x="18" y="92" fill="var(--muted)">  CS @ University of Waterloo</text>
+    <text x="18" y="120"><tspan fill="var(--user)">kaius@github</tspan><tspan fill="var(--path)"> ~</tspan><tspan> $ </tspan><tspan>cat interests.md</tspan></text>
+    <text x="18" y="138" fill="var(--heading)">## interests</text>
+    <text x="18" y="156">- Backend Development</text>
+    <text x="18" y="174">- LLM Inference &amp; Serving</text>
+    <text x="18" y="192">- Deep Learning &amp; Neural Network Architectures</text>
+    <text x="18" y="220"><tspan fill="var(--user)">kaius@github</tspan><tspan fill="var(--path)"> ~</tspan><tspan> $ </tspan><tspan>contact --all</tspan></text>
+    <text x="18" y="240"><tspan fill="var(--muted)">Portfolio</tspan><tspan x="98" fill="var(--link)">kaiusjin.com</tspan></text>
+    <text x="18" y="260"><tspan fill="var(--muted)">LinkedIn</tspan><tspan x="98" fill="var(--link)">linkedin.com/in/kaixuan-jin</tspan></text>
+    <text x="18" y="280"><tspan fill="var(--muted)">Email</tspan><tspan x="98" fill="var(--link)">k39jin@uwaterloo.ca</tspan></text>
+    <text x="18" y="310"><tspan fill="var(--user)">kaius@github</tspan><tspan fill="var(--path)"> ~</tspan><tspan> $ </tspan><tspan fill="var(--muted)">▍</tspan></text>
+  </g>
+  <text x="18" y="338" class="status" fill="var(--chrome)" xml:space="preserve">UTF-8     zsh     ctrl-l · clear</text>
+</svg>
